@@ -6,7 +6,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Day Planner",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
             }
