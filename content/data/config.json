@@ -6,7 +6,7 @@
             {
                 "type": "Link",
                 "label": "Day Planner",
-                "url": "https://dandiemerapps.netlify.com/day-planner-privacy-policy",
+                "url": "/day-planner-privacy-policy",
                 "underline": "hover"
             }
         ]
