@@ -15,10 +15,4 @@ sections:
         size: large
         variant: contained
         color: primary
-      - type: Button
-        label: Learn more
-        url: /
-        size: large
-        variant: outlined
-        color: primary
 ---
