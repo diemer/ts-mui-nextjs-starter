@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Day Planner
     subtitle: A lightweight journaling app
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |
+      Coming soon!
     actions:
       - type: Button
         label: Start Building
